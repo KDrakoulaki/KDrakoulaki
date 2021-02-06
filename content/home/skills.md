@@ -24,7 +24,7 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 90%
+- description: 70%
   icon: python
   icon_pack: fab
   name: Python 
