@@ -38,6 +38,9 @@ education:
   - course: BA in Philology, Linguistics specialization
     institution: National and Kapodistrian University of Athens
     year: 2013
+  - course: Diploma, Classical piano performance
+    institution: National Conservatory of Athens
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
