@@ -1,39 +1,43 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Katerina Drakoulaki
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD student, Speech and language therapist, Musician
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Psycholinguistics - Neurolinguistics Lab, National and Kapodistrian University of Athens 
+  url: https://psychoneurolinglab.wordpress.com/
+- name: Music, Cognition, Computation, Community Lab, National and Kapodistrian University of Athens
+  url: https://mccc.music.uoa.gr/en/the-lab/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Music Cognition
+- Psycholinguistics
+- Neurolinguistics
+- Neuroscience
+- Open Science 
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Psycholinguistics
+    institution: National and Kapodistrian University of Athens
+    year: 2021 (expected)
+  - course: MSc in Speech and Language Therapy (Pre-Registration)
+    institution: Queen Margaret University, Edinburgh
+    year: 2016
+  - course: BA in Philology, Linguistics specialization
+    institution: National and Kapodistrian University of Athens
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,17 +46,17 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:katerina.drakoulaki@gmail.com'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+  link: https://twitter.com/KDrakoulaki
+- #icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
-- icon: linkedin
+- #icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
 
@@ -70,8 +74,8 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a PhD student at the National and Kapodistrian University of Athens, funded by the State Scholarships Institute (IKY). I investigate the relationship between linguistic, cognitive and music skills of Greek-speaking pre-schoolers. I am an advocate for [developmental language disorder](dld.org).  I'm a speech and language therapist and have experience working with paediatric populations. I also teach piano to individuals with learning difficulties. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+For the academic year 2020-2021 I'm a [fellow](https://fellows.frictionlessdata.io/) at the Frictionless Data for Reproducible Research Fellowship program, where I'm being trained in issues around open science and reproducibility, and best practices around data management. My blogs from my experience from the fellowship program can be found [here.](https://fellows.frictionlessdata.io/blog/)
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
