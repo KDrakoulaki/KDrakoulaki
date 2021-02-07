@@ -77,7 +77,7 @@ email: ""
 highlight_name: false
 ---
 
-I'm a PhD student at the National and Kapodistrian University of Athens, funded by the Greek State Scholarships Institute (IKY). I investigate the relationship between linguistic, cognitive and music skills of Greek-speaking pre-schoolers. I am an advocate for [developmental language disorder](dld.org).  I'm a speech and language therapist and have experience working with paediatric populations. I also teach piano to individuals with learning difficulties. 
+I'm a PhD student at the National and Kapodistrian University of Athens, funded by the Greek State Scholarships Institute (IKY). I investigate the relationship between linguistic, cognitive and music skills of Greek-speaking pre-schoolers. I am an advocate for [developmental language disorder](dld.org).  I'm a speech and language therapist and I have clinical experience working with paediatric populations (language delay, phonological disorders, ASD, language impairment, learning/literacy difficulties). I also teach piano to individuals with learning difficulties. 
 
 For the academic year 2020-2021 I'm a [fellow](https://fellows.frictionlessdata.io/) at the Frictionless Data for Reproducible Research Fellowship program, where I'm being trained in issues around open science and reproducibility, and best practices around data management. My blogs from my experience from the fellowship program can be found [here.](https://fellows.frictionlessdata.io/blog/)
 
