@@ -25,6 +25,7 @@ interests:
 - Neurolinguistics
 - Neuroscience
 - Open Science 
+- Speech and language therapy effectiveness / Evidence-based Practice
 
 # Education to show in About widget
 education:
