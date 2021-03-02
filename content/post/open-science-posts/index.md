@@ -28,7 +28,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-### Open Science Posts 
+
 
 My posts on open science and data management from my fellowship at Frictionless Data are available here:
 
