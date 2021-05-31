@@ -36,4 +36,5 @@ My posts on open science and data management from my fellowship at Frictionless 
 - [Open Access Week 2020](https://fellows.frictionlessdata.io/blog/oa-week-2020/)
 - [Data package creation](https://fellows.frictionlessdata.io/blog/katerina-datapackage-blog/)
 - [Data package validation](https://fellows.frictionlessdata.io/blog/katerina-goodtables-blog/)
+- [Final blog - a reflection](https://fellows.frictionlessdata.io/blog/katerina-final-blog/)
 
