@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "NeuroMusic poster"
+title: "ICMPC-ESCOM 2021"
 subtitle: ""
 summary: ""
 authors: [Katerina Drakoulaki]
@@ -17,7 +17,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "My poster at NeuroMusic conference "
+  caption: ""
   focal_point: ""
   preview_only: false
 
@@ -29,9 +29,12 @@ image:
 projects: []
 ---
 
+Here's my talk from the ICMPC-ESCOM conference, held only online this year, and the accepted final abstract.  
 
-I participated in **[NeuroMusic conference](https://www.fondazione-mariani.org/en/neuromusic7)** with a poster of my research. 
+{{< youtube 1aJMMbg3ZIg >}}
 
-![](Neuro-Music6.jpg "The poster presented at NeuroMusic VI in June 2021, presenting some of the findings of my PhD project. ")
 
+
+
+{{< gdocs src="https://drive.google.com/file/d/1EO44sZlnz78sM20WPSKPUs-ZsK87dmLk/view" >}}
 
