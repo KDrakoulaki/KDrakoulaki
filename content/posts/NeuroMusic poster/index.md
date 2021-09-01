@@ -32,6 +32,6 @@ projects: []
 
 I participated in **[NeuroMusic conference](https://www.fondazione-mariani.org/en/neuromusic7)** with a poster of my research. 
 
-![](Neuro-Music6.jpg "The poster presented at NeuroMusic VI in June 2021, presenting some of the findings of my PhD project. ")
+![](Neuro-Music6.jpg "The poster presented at NeuroMusic VII in June 2021, presenting some of the findings of my PhD project. ")
 
 
