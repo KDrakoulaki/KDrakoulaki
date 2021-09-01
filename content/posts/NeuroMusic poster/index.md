@@ -1,3 +1,4 @@
+---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "NeuroMusic poster"
@@ -29,6 +30,8 @@ projects: []
 ---
 
 
-I participated in [NeuroMusic conference](https://www.fondazione-mariani.org/en/neuromusic7) with a poster of my research
+I participated in **[NeuroMusic conference](https://www.fondazione-mariani.org/en/neuromusic7)** with a poster of my research. 
+
+![screen reader text](Neuro-Music6.jpg "The poster presented at NeuroMusic VI in June 2021, presenting some of the findings of my PhD project. ")
 
 
