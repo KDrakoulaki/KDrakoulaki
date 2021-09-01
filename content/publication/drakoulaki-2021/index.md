@@ -1,15 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Αναπτυξιακή Γλωσσική διαταραχή: μαθησιακή πορεία και επιπτώσεις'
+title: Potential Relations between Language Skills with Music Skills and General Cognitive
+  Skills in Pre-Schoolers
 subtitle: ''
 summary: ''
 authors:
 - Katerina Drakoulaki
+- Christina Anagnostopoulou
+- Maria Teresa Guasti
+- Barbara Tillmann
+- Spyridoula Varlokosta
 tags: []
 categories: []
-date: '2018-03-01'
-lastmod: 2021-02-07T00:25:12+02:00
+date: '2021-07-01'
+lastmod: 2021-09-01T20:46:09+03:00
 featured: false
 draft: false
 
@@ -27,9 +32,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-06T22:25:11.748785Z'
+publishDate: '2021-09-01T17:46:09.257000Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Αναζητώντας το τι, το πώς και το γιατί στις τρεις βαθμίδες της εκπαίδευσης, 2ο Πανελλήνιο Συνέδριο Εκπαιδευτηρίων Πολύτροπη Αρμονία*'
+publication: '*Connectivity and Diversity in Music Cognition*'
 ---

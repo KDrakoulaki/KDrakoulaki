@@ -9,8 +9,8 @@ authors:
 - Katerina Drakoulaki
 tags: []
 categories: []
-date: '2018-06-01'
-lastmod: 2021-02-07T00:25:18+02:00
+date: -01-01
+lastmod: 2021-09-01T20:46:08+03:00
 featured: false
 draft: false
 
@@ -28,9 +28,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-06T22:25:17.383558Z'
+publishDate: '2021-09-01T17:46:07.352036Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Language Disorders in Greek 7*'
+publication: ''
 ---

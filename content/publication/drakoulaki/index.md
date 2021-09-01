@@ -1,16 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Exploring the Rhythmic Abilities of Greek-Speaking Children with Specific
-  Language Impairment: Evidence from Correlational and Priming Studies'
+title: 'Framing Music and Language on a Competence versus Performance Framework: A
+  Review of Theory and Empirical Data'
 subtitle: ''
 summary: ''
 authors:
 - Katerina Drakoulaki
+- Christina Anagnostopoulou
+- Maria Teresa Guasti
+- Barbara Tillmann
+- Spyridoula Varlokosta
 tags: []
 categories: []
-date: '2019-03-01'
-lastmod: 2021-02-07T00:25:16+02:00
+date: -01-01
+lastmod: 2021-09-01T20:46:06+03:00
 featured: false
 draft: false
 
@@ -28,9 +32,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-06T22:25:14.597317Z'
+publishDate: '2021-09-01T17:46:05.983070Z'
 publication_types:
-- '1'
+- '2'
 abstract: ''
-publication: '*SEMPRE Graduate Conference 2019*'
+publication: ''
 ---

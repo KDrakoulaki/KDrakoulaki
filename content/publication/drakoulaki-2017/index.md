@@ -9,8 +9,8 @@ authors:
 - Robin Lickley
 tags: []
 categories: []
-date: '2017-09-01'
-lastmod: 2021-02-07T00:25:17+02:00
+date: -01-01
+lastmod: 2021-09-01T20:46:07+03:00
 featured: false
 draft: false
 
@@ -28,10 +28,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-06T22:25:16.314375Z'
+publishDate: '2021-09-01T17:46:06.750710Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of the 10th International Conference of Students of Systematic
   Musicology*'
+url_pdf: https://sysmus17.qmul.ac.uk/proceedings/
 ---

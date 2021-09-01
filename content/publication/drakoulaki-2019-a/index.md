@@ -1,16 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Similarities and Differences in Language and Music: Using Marr's 3 Levels\
-  \ of Analysis"
+title: 'Similarities and Differences in Language and Music: Using Marr’s 3 Levels
+  of Analysis'
 subtitle: ''
 summary: ''
 authors:
 - Katerina Drakoulaki
 tags: []
 categories: []
-date: '2019-10-01'
-lastmod: 2021-02-07T00:25:19+02:00
+date: -01-01
+lastmod: 2021-09-01T20:46:09+03:00
 featured: false
 draft: false
 
@@ -28,9 +28,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-06T22:25:18.615798Z'
+publishDate: '2021-09-01T17:46:08.229433Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Music and Language 2019*'
+publication: ''
 ---
