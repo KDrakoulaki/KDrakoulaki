@@ -29,7 +29,7 @@ image:
 projects: []
 ---
 
-Here's my talk from the ICMPC-ESCOM conference, held only online this year, and the accepted final abstract.  
+Here's my talk from the ICMPC-ESCOM conference, held only online this year, and the accepted [final abstract](https://drive.google.com/file/d/1EO44sZlnz78sM20WPSKPUs-ZsK87dmLk/).  
 
 {{< youtube 1aJMMbg3ZIg >}}
 
