@@ -25,7 +25,7 @@ interests:
 - Neurolinguistics
 - Neuroscience
 - Open Science 
-- Speech and language therapy effectiveness / Evidence-based Practice
+- Speech and language therapy effectiveness/Evidence-based Practice
 
 # Education to show in About widget
 education:
@@ -67,9 +67,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
