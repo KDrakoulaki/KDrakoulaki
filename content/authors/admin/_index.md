@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Katerina Drakoulaki
+title: Katerina Drakoulaki, PhD
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: PhD student, Speech and language therapist, Musician
+role: Researcher, Speech and language therapist, Musician
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -20,8 +20,8 @@ organizations:
 
 # Interests to show in About widget
 interests:
+- Psycholinguistics 
 - Music Cognition
-- Psycholinguistics
 - Neurolinguistics
 - Neuroscience
 - Open Science 
@@ -32,7 +32,7 @@ education:
   courses:
   - course: PhD in Psycholinguistics
     institution: National and Kapodistrian University of Athens
-    year: 2021 (expected)
+    year: 2021 
   - course: MSc in Speech and Language Therapy (Pre-Registration)
     institution: Queen Margaret University, Edinburgh
     year: 2016
@@ -78,8 +78,8 @@ email: ""
 highlight_name: false
 ---
 
-I'm a PhD student at the National and Kapodistrian University of Athens, funded by the Greek State Scholarships Institute (IKY). I investigate the relationship between linguistic, cognitive and music skills of Greek-speaking pre-schoolers. I am an advocate for [developmental language disorder](dld.org).  I'm a speech and language therapist and I have clinical experience working with paediatric populations (language delay, phonological disorders, ASD, language impairment, learning/literacy difficulties). I also teach piano to individuals with learning difficulties. 
+I was awarded my PhD with distinction from the National and Kapodistrian University of Athens, funded by the Greek State Scholarships Institute (IKY). I investigate the relationship between linguistic, cognitive and music skills of Greek-speaking pre-schoolers. I am an advocate for [developmental language disorder](dld.org).  I'm a speech and language therapist and I have clinical experience working with paediatric populations (language delay, phonological disorders, ASD, language impairment, learning/literacy difficulties). I also teach piano to individuals with learning difficulties. 
 
-For the academic year 2020-2021 I'm a [fellow](https://fellows.frictionlessdata.io/) at the Frictionless Data for Reproducible Research Fellowship program, where I'm being trained in issues around open science and reproducibility, and best practices around data management. My blogs from my experience from the fellowship program can be found [here.](https://fellows.frictionlessdata.io/blog/)
+For the academic year 2020-2021 I was a [fellow](https://fellows.frictionlessdata.io/) at the Frictionless Data for Reproducible Research Fellowship program, where I was trained in issues around open science and reproducibility, and best practices around data management. My blogs from my experience from the fellowship program can be found [here.](https://fellows.frictionlessdata.io/blog/)
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
