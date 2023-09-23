@@ -6,14 +6,13 @@ title: Katerina Drakoulaki, PhD
 superuser: true
 
 # Role/position/tagline
-role: Researcher, Speech and language therapist, Musician
+role: Postdoc Researcher, Speech and language therapist, Musician
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Psycholinguistics - Neurolinguistics Lab, National and Kapodistrian University of Athens 
-  url: https://psychoneurolinglab.wordpress.com/
-- name: Music, Cognition, Computation, Community Lab, National and Kapodistrian University of Athens
-  url: https://mccc.music.uoa.gr/en/the-lab/
+- name: Cognition Attention Perception Speech Lab, Mount Holyoke College, MA 
+  url: https://sites.google.com/mtholyoke.edu/mbreen/research
+
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
