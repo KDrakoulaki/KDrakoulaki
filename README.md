@@ -34,3 +34,5 @@ To help us develop this template and software sustainably under the MIT license,
 # Katerina's reminder: 
 How to build this page: 
 https://www.dsquintana.blog/create-an-academic-website-free-easy-2020/
+
+Remember to check the netlify website if the website does not deploy. 
