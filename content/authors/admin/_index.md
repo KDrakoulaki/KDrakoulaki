@@ -6,7 +6,7 @@ title: Katerina Drakoulaki, PhD
 superuser: true
 
 # Role/position/tagline
-role: Postdoc Researcher, Speech and language therapist, Musician
+role: Postdoctoral Researcher, Speech and language therapist, Musician
 
 # Organizations/Affiliations to show in About widget
 organizations:
