@@ -77,7 +77,11 @@ email: ""
 highlight_name: false
 ---
 
-I was awarded my PhD with distinction from the National and Kapodistrian University of Athens, funded by the Greek State Scholarships Institute (IKY). I investigate the relationship between linguistic, cognitive and music skills of Greek-speaking pre-schoolers. I am an advocate for [developmental language disorder](dld.org).  I'm a speech and language therapist and I have clinical experience working with paediatric populations (language delay, phonological disorders, ASD, language impairment, learning/literacy difficulties). I also teach piano to individuals with learning difficulties. 
+I was awarded my PhD with distinction from the National and Kapodistrian University of Athens, funded by the Greek State Scholarships Institute (IKY). In my doctoral thesis, I investigated the relationship between linguistic, cognitive and music skills of Greek-speaking pre-schoolers. In 2022, I was trained in eye-tracking methodologies for reading during my postdoctoral fellowship in the Language and Executive Functions strategies in Language Disorders (LEFIELD) at the Psycholinguistics and Neurolinguistics Lab, NKUA.
+
+I am currently a postdoctoral fellow at the Cognition Attention Perception and Speech Lab, Mount Holyoke College, Massachussets, investigating children's meter perception and reading skills using electroencephalography, eye-tracking and behavioral methods. 
+
+ I am an advocate for [developmental language disorder](dld.org).  I'm a speech and language therapist and I have clinical experience working with paediatric populations (language delay, phonological disorders, ASD, language impairment, learning/literacy difficulties). I have also taught piano to individuals with learning difficulties. 
 
 For the academic year 2020-2021 I was a [fellow](https://fellows.frictionlessdata.io/) at the Frictionless Data for Reproducible Research Fellowship program, where I was trained in issues around open science and reproducibility, and best practices around data management. My blogs from my experience from the fellowship program can be found [here.](https://fellows.frictionlessdata.io/blog/)
 
