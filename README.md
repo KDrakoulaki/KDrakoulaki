@@ -36,3 +36,5 @@ How to build this page:
 https://www.dsquintana.blog/create-an-academic-website-free-easy-2020/
 
 Remember to check the netlify website if the website does not deploy. 
+
+Create the server again (hugo server) and you will be able to locally see the changes (in browser preview)
