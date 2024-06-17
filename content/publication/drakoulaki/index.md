@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Framing Music and Language on a Competence versus Performance Framework: A
-  Review of Theory and Empirical Data'
+title: 'Situating language and music research in a domain-specific versus domain-general framework: A review of theoretical and empirical data'
 subtitle: ''
 summary: ''
 authors:
@@ -14,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: -01-01
-lastmod: 2021-09-01T20:46:06+03:00
+lastmod: 2024-06-17T20:46:06+03:00
 featured: false
 draft: false
 
