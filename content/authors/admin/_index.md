@@ -68,7 +68,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: static/media/CV_Drakoulaki_Jun24.pdf
+  link: static/media/CV_Drakoulaki_Sept24.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
